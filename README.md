@@ -1,2 +1,3 @@
-# Análise crítica sobre aplicação do Scrum - Case de sucesso
+# Proposta análise crítica sobre aplicação do Scrum - Case de sucesso Spoptfy
+Este texto busca analisar a trajetória de sucesso da Spotify sob o enfoque da aplicação de princípios ágeis, em especial o Scrum, no contexto de um mercado competitivo e em constante transformação. A proposta é compreender como as estratégias adotadas pela empresa possibilitaram não apenas a sobrevivência, mas também a liderança global no segmento de música digital. Além disso, serão discutidas as lições aprendidas e os impactos gerados, com vistas a oferecer insights aplicáveis a outros contextos organizacionais e mercadológicos.
 
